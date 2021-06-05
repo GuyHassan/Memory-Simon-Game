@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Memory-Simon-Game/static/css/main.61eec487.chunk.css",
+    "main.js": "/Memory-Simon-Game/static/js/main.856368d8.chunk.js",
+    "main.js.map": "/Memory-Simon-Game/static/js/main.856368d8.chunk.js.map",
+    "runtime-main.js": "/Memory-Simon-Game/static/js/runtime-main.94af9c2f.js",
+    "runtime-main.js.map": "/Memory-Simon-Game/static/js/runtime-main.94af9c2f.js.map",
+    "static/js/2.aa24350b.chunk.js": "/Memory-Simon-Game/static/js/2.aa24350b.chunk.js",
+    "static/js/2.aa24350b.chunk.js.map": "/Memory-Simon-Game/static/js/2.aa24350b.chunk.js.map",
+    "index.html": "/Memory-Simon-Game/index.html",
+    "static/css/main.61eec487.chunk.css.map": "/Memory-Simon-Game/static/css/main.61eec487.chunk.css.map",
+    "static/js/2.aa24350b.chunk.js.LICENSE.txt": "/Memory-Simon-Game/static/js/2.aa24350b.chunk.js.LICENSE.txt",
+    "static/media/globalStyle.css": "/Memory-Simon-Game/static/media/background.5b7973b3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94af9c2f.js",
+    "static/js/2.aa24350b.chunk.js",
+    "static/css/main.61eec487.chunk.css",
+    "static/js/main.856368d8.chunk.js"
+  ]
+}
